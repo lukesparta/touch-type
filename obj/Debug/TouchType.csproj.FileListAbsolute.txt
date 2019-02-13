@@ -1,0 +1,7 @@
+C:\labs\labs\TouchType\TouchType\bin\Debug\TouchType.exe.config
+C:\labs\labs\TouchType\TouchType\bin\Debug\TouchType.exe
+C:\labs\labs\TouchType\TouchType\bin\Debug\TouchType.pdb
+C:\labs\labs\TouchType\TouchType\obj\Debug\TouchType.csprojAssemblyReference.cache
+C:\labs\labs\TouchType\TouchType\obj\Debug\TouchType.csproj.CoreCompileInputs.cache
+C:\labs\labs\TouchType\TouchType\obj\Debug\TouchType.exe
+C:\labs\labs\TouchType\TouchType\obj\Debug\TouchType.pdb
